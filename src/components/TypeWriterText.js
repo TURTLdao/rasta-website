@@ -106,13 +106,13 @@ const TypeWriterText = () => {
       </SubTitle>
       <ButtonContainer>
    <a
-          href="https://galacticlinks.onrender.com"
+          href="https://twitter.com/HighOnNfts"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Button
             text="Explore"
-            href="https://galacticlinks.onrender.com"
+            href="https://twitter.com/HighOnNfts"
           >
           </Button>
         </a>   
